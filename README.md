@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,materialui,git,github,figma&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={imaihayato2025}
-)](https://github.com/anuraghazra/github-readme-stats)
+
