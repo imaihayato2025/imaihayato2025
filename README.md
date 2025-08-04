@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,materialui,git,github,figma&theme=dark)
 
+## 💻️ Summary
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imaihayato2025&layout=compact&langs_count=6&exclude_repo=test-repo)](https://github.com/anuraghazra/github-readme-stats)
 
