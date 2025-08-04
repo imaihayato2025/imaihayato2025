@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠️ My Skills
+## 💻️ My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,materialui,git,github,figma&theme=dark)
