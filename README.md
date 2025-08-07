@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ## 💻️ Summary
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imaihayato2025&layout=compact&langs_count=6&exclude_repo=test-repo)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs?imaihayato2025=yukimura-manase)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaihayato2025&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
