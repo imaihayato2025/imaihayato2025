@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 💻️ My Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vercel,tailwind,materialui,git,github,wordpress,vscode,figma,illustrator,aws&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vercel,tailwind,materialui,git,github,wordpress,vscode,figma,aws&theme=dark)
 
 ## 💻️ Summary
 
