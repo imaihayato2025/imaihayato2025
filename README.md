@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vercel,tailwind,materialui,git,github,vscode,figma,aws,&theme=dark)
 
 ## 🏅Certifications
-
-- AWS Certified Cloud Practitioner
+AWS Certified Cloud Practitioner
 
