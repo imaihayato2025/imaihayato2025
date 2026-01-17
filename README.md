@@ -19,13 +19,7 @@ Here are some ideas to get you started:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vercel,tailwind,materialui,git,github,vscode,figma,aws,&theme=dark)
 
-## 🏅　Certifications
+## 🏅Certifications
 
 - AWS Certified Cloud Practitioner
 
-## 💻️ Summary
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=imaihayato2025)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaihayato2025&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
