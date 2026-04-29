@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ## Certifications
 
-<p align="left">
-  <img src="./img/clf.png" width="150"/>
-  <img src="./img/saa.webp" width="150"/>
-</p>
+**AWS Certified Cloud Practitioner**  
+
+**AWS Certified Solutions Architect – Associate**
