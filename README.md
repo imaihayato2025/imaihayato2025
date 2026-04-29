@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## Certifications
 
-![AWS CLF](./img/clf.png)
-
-![AWS SAA](./img/saa.webp)
+<p align="left">
+  <img src="./img/clf.png" width="150"/>
+  <img src="./img/saa.webp" width="150"/>
+</p>
