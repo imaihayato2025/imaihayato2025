@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💻️ My Skills
+## My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,scss,java,eclipce,js,typescript,react,next,vercel,tailwind,git,github,vscode,figma,aws&theme=dark)
 
-## 🏅Certifications
+## Certifications
 AWS Certified Cloud Practitioner
-
+AWS Certified Solutions Architect – Associate
