@@ -26,6 +26,3 @@ Here are some ideas to get you started:
     <img src="https://github.com/imaihayato2025/imaihayato2025/blob/main/img/aws-certified-solutions-architect-associate.png" width=100" alt="AWS Certified Solutions Architect Associate"/
 </p>
 
-- AWS Certified Cloud Practitioner  
-
-- AWS Certified Solutions Architect – Associate
