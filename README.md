@@ -22,19 +22,8 @@ Here are some ideas to get you started:
 ## Certifications
 
 <p align="left">
-
-  <a href="https://www.credly.com/badges/506b97fa-705e-4f35-9406-7f4982cfec72/public_url">
-
-    <img src="img/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner"/>
-
-  </a>
-
-  <a href="https://www.credly.com/badges/8bc80810-121e-44f4-b5e9-c07fb8198e8d/public_url">
-
-    <img src="https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Solutions Architect Associate"/>
-
-  </a>
-
+    <img src="https://github.com/imaihayato2025/imaihayato2025/blob/main/img/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner"/ >
+    <img src="https://github.com/imaihayato2025/imaihayato2025/blob/main/img/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate"/
 </p>
 
 - AWS Certified Cloud Practitioner  
