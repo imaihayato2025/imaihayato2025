@@ -21,6 +21,22 @@ Here are some ideas to get you started:
 
 ## Certifications
 
-**AWS Certified Cloud Practitioner**  
+<p align="left">
 
-**AWS Certified Solutions Architect – Associate**
+  <a href="https://www.credly.com/badges/506b97fa-705e-4f35-9406-7f4982cfec72/public_url">
+
+    <img src="https://images.credly.com/size/110x110/images/6840c6cf-cd8a-4b0b-b2f8-7f70d0b9f1f3/image.png" alt="AWS Certified Cloud Practitioner"/>
+
+  </a>
+
+  <a href="https://www.credly.com/badges/8bc80810-121e-44f4-b5e9-c07fb8198e8d/public_url">
+
+    <img src="https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Solutions Architect Associate"/>
+
+  </a>
+
+</p>
+
+- AWS Certified Cloud Practitioner  
+
+- AWS Certified Solutions Architect – Associate
